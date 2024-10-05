@@ -1,6 +1,6 @@
 # Hidra Index
 
-Lista de materiais para organizar trilhas e planos de estudos :)
+Lista de materiais para organizar trilhas e planos de estudos. :)
 
 
 - Acesse a lista [index.md](index.md)
